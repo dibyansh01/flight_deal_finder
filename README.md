@@ -1,6 +1,6 @@
 # **flight_deal_finder**
-<h2>Problem Statement</h2>
-<p>Create an app that recommends the best flight deals.</p>
+<h2>Problem Proposition:</h2>
+<p>Develop an application that will find the best flight deals between specified destinations and user budgets.</p>
 <h3>Introduction</h3>
 <ul>
 <li>Its a personal API based project to find flight deals based on the provided destinations and your expected price range.</li>
