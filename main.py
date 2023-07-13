@@ -19,9 +19,6 @@ for i in range(sheet_data_length):
         print("Error. Empty row in sheet, moving ro next.")
         continue
 
-
-
-data_manager.destination_data = sheet_data
 data_manager.update_dstination_code()
 
 tomorrow = datetime.now() + timedelta(days=1)
