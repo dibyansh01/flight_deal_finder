@@ -1,6 +1,6 @@
 # **flight_deal_finder**
 <h2>Problem Proposition:</h2>
-<p>Develop an application that will find the best flight deals between specified destinations and user budgets.</p>
+<p>Develop backend of an application using pyhton programming and web APIs that will find the best flight deals between specified destinations and user budgets.</p>
 <h3>Introduction</h3>
 <ul>
 <li>Its a personal API based project to find flight deals based on the provided destinations and your expected price range.</li>
