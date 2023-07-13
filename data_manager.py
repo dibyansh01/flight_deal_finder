@@ -29,9 +29,5 @@ class DataManager:
                 print(response.json)
             except KeyError:
                 continue
-        # else:
-        #     print("no entry is there")
 
-# data_manager = DataManager()
-# print(data_manager.get_destination_data())
 
