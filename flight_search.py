@@ -54,10 +54,3 @@ flight_search = FlightSearch()
 
 
 
-
-
-
-# data_manager = DataManager()
-# sheet_data = data_manager.get_destination_data()
-# flight_search = FlightSearch()
-# flight_search.get_destination_code(sheet_data[0]["city"])
